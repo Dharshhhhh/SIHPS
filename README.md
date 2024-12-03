@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date: 3-12-2024
+## Register Number:24006560
+## Name:DHARSHINI R.
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,33 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
-
+Networking: Provide a space for alumni to connect with each other based on graduation
+ year, program, industry, or interest. Event Management: Allow alumni to organize and
+ attend events (reunions, webinars, mentorship sessions, etc.). Job/Internship
+ Opportunities: Provide a job board where alumni can post opportunities for current
+ students and fellow alumni. News and Updates: Keep alumni updated on university
+ news, achievements, and ongoing research. Alumni Donations and Fundraising: Enable
+ alumni to donate to the university and fund initiatives. Profile Management: Alumni
+ should be able to create and update their profiles with their career information,
+ achievements, and personal updates. Mentorship Programs: Facilitate alumni who want
+ to mentor current students or fellow alumni. Community Discussion Forums: Encourage
+ discussions on professional topics, life experiences, or university-related matters. Job
+ Search & Recruitment: Enable alumni to access or post job vacancies, career advice, and
+ recruitment drives.
 
 ## Proposed Solution / Architecture Diagram
+![ppic1](https://github.com/user-attachments/assets/52d45a38-c275-416f-97fe-f84e393a1378)
 
 
 ## Use Cases
+![pic2](https://github.com/user-attachments/assets/89f83905-b1c8-4e78-bac7-9d543ac41f4b)
+
 
 
 ## Technology Stack
-
+HTML5 React Node.js vue.js Django Google Cloud
 
 ## Dependencies
-
+Mapping Service Costs:Starts at $50/month for 50,000 views Data collection: $25/month
+ for unlimited questions and up to 1,000 responses. Budget:2.9% + 30¢ per successful
+ transactio
